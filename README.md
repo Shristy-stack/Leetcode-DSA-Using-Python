@@ -34,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+## Database
+|  |
+| ------- |
+| [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 <!---LeetCode Topics End-->
