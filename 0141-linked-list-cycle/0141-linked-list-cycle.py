@@ -6,12 +6,12 @@
 
 class Solution:
     def hasCycle(self, head: Optional[ListNode]) -> bool:
-        hashmap={}
-        temp=head
-        while(temp):
-            if temp in hashmap:
+        slow=head
+        fast=head
+        while fast and fast.next:
+            slow=slow.next
+            fast=fast.next.next
+            if slow==fast :
                 return True
-            hashmap[temp]=temp.val
-            temp=temp.next
         return False
         
