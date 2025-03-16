@@ -5,7 +5,7 @@ class Solution:
         i=0
         while len!=0:
             c=n%2
-            sum=sum+ (c*(2 ** (len-i-1)))
+            sum=sum+ (c*(2 ** (len-1)))
             n=n//2
             len=len-1
         return sum
