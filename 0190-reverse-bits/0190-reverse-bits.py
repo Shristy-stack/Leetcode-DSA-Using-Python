@@ -1,11 +1,7 @@
 class Solution:
     def reverseBits(self, n: int) -> int:
         sum=0
-        len=32
-        i=0
-        while len!=0:
-            c=n%2
-            sum=sum+ (c*(2 ** (len-1)))
-            n=n//2
-            len=len-1
+        for i in range(32):
+            bit=(n>>i) & 1
+            sum =sum| bit<<(31-i)
         return sum
