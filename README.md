@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0387-first-unique-character-in-a-string) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1904-second-largest-digit-in-a-string) |
 ## Sorting
@@ -25,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0349-intersection-of-two-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -45,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0349-intersection-of-two-arrays) |
 ## Database
 |  |
 | ------- |
@@ -56,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0141-linked-list-cycle) |
+| [0349-intersection-of-two-arrays](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0349-intersection-of-two-arrays) |
 | [1894-merge-strings-alternately](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
