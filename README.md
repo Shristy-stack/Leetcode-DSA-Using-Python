@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0217-contains-duplicate) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0268-missing-number) |
