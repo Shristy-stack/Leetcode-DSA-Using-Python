@@ -1,5 +1,7 @@
 class Solution:
     def singleNumber(self, nums: List[int]) -> int:
-        c=sum(set(nums))
-        return c-(sum(nums)-c)
+        xor=nums[0]
+        for i in range(1,len(nums)):
+            xor=xor^nums[i]
+        return xor
         
