@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0189-rotate-array](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0268-missing-number) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0141-linked-list-cycle) |
+| [0189-rotate-array](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0349-intersection-of-two-arrays) |
 | [1894-merge-strings-alternately](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1894-merge-strings-alternately) |
 ## String
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0268-missing-number) |
 ## Queue
 |  |
