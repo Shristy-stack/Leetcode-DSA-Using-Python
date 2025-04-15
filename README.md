@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0349-intersection-of-two-arrays) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0628-maximum-product-of-three-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0349-intersection-of-two-arrays) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0628-maximum-product-of-three-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0628-maximum-product-of-three-numbers) |
 ## Queue
 |  |
 | ------- |
