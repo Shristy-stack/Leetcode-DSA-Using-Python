@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0349-intersection-of-two-arrays) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0628-maximum-product-of-three-numbers) |
 ## Hash Table
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0387-first-unique-character-in-a-string) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1904-second-largest-digit-in-a-string) |
 ## Sorting
 |  |
