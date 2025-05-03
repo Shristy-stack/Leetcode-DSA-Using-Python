@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0242-valid-anagram) |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0268-missing-number) |
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0387-first-unique-character-in-a-string) |
