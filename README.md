@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0136-single-number) |
@@ -147,4 +148,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
