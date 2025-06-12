@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0183-customers-who-never-order) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0595-big-countries](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0595-big-countries) |
+| [1135-customers-who-bought-all-products](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1135-customers-who-bought-all-products) |
 | [1179-game-play-analysis-i](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1179-game-play-analysis-i) |
 | [1258-article-views-i](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1258-article-views-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
