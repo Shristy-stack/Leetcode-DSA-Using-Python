@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1135-customers-who-bought-all-products](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1135-customers-who-bought-all-products) |
 | [1179-game-play-analysis-i](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1179-game-play-analysis-i) |
 | [1258-article-views-i](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1258-article-views-i) |
+| [1327-last-person-to-fit-in-the-bus](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1773-percentage-of-users-attended-a-contest) |
