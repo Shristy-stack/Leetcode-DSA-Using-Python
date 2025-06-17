@@ -1,9 +1,15 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-        dict={}
+        dict1={}
         dict2={}
         for i in s:
-            dict[i]=1+dict.get(i,0)
+            if i in dict1:
+                dict1[i]+=1
+            else:
+                dict1[i]=1
         for i in t:
-            dict2[i]=1+dict2.get(i,0)
-        return dict==dict2
+            if i in dict2:
+                dict2[i]+=1
+            else:
+                dict2[i]=1
+        return dict1==dict2
