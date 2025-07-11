@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0628-maximum-product-of-three-numbers) |
 | [0792-binary-search](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0792-binary-search) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0349-intersection-of-two-arrays) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0628-maximum-product-of-three-numbers) |
 ## Dynamic Programming
 |  |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0268-missing-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0628-maximum-product-of-three-numbers) |
 ## Queue
 |  |
