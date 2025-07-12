@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0560-subarray-sum-equals-k) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1904-second-largest-digit-in-a-string) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0424-longest-repeating-character-replacement) |
 | [1894-merge-strings-alternately](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1894-merge-strings-alternately) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1904-second-largest-digit-in-a-string) |
 ## Linked List
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0424-longest-repeating-character-replacement) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Matrix
 |  |
