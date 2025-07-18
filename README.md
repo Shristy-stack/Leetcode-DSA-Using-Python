@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0349-intersection-of-two-arrays) |
+| [0443-string-compression](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0443-string-compression) |
 | [1894-merge-strings-alternately](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0424-longest-repeating-character-replacement) |
+| [0443-string-compression](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0443-string-compression) |
 | [1894-merge-strings-alternately](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1894-merge-strings-alternately) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1904-second-largest-digit-in-a-string) |
 ## Linked List
