@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0054-spiral-matrix) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0322-coin-change) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0189-rotate-array) |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0042-trapping-rain-water) |
 ## Tree
 |  |
 | ------- |
@@ -244,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
