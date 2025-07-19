@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0268-missing-number) |
+| [0322-coin-change](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0322-coin-change](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0338-counting-bits) |
 ## Prefix Sum
 |  |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0322-coin-change) |
 ## Binary Tree
 |  |
 | ------- |
