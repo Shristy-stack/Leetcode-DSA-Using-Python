@@ -9,6 +9,5 @@ class Solution:
             res[key].append(word)
         return list(res.values())
 
-
             
             
