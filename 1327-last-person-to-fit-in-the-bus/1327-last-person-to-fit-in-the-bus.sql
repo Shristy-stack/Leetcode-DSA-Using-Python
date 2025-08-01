@@ -1,10 +1,9 @@
-WITH cummulative_sum as 
-(
-    SELECT person_id ,person_name ,turn ,
-    SUM(weight) over (ORDER BY  turn asc) as cumm_weight
-    FROM Queue 
+WITH CUMM_SUM AS (
+    SELECT person_name,
+SUM(Weight) OVER (ORDER BY TURN) AS  Total_Weight_So_Far
+FROM Queue
+ORDER BY Total_Weight_So_Far DESC
 )
-
-SELECT person_name  FROM cummulative_sum
-WHERE cumm_weight <=1000
-ORDER BY turn desc limit 1
+SELECT person_name FROM CUMM_SUM
+WHERE Total_Weight_So_Far <= 1000
+LIMIT 1
