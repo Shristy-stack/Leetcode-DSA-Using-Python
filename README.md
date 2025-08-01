@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0180-consecutive-numbers](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0180-consecutive-numbers) |
 | [0183-customers-who-never-order](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0183-customers-who-never-order) |
 | [0197-rising-temperature](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0197-rising-temperature) |
+| [0262-trips-and-users](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0262-trips-and-users) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0595-big-countries](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0595-big-countries) |
 | [1135-customers-who-bought-all-products](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1135-customers-who-bought-all-products) |
