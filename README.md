@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0338-counting-bits) |
@@ -268,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0042-trapping-rain-water) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
