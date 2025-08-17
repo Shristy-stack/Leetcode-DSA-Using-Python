@@ -8,9 +8,9 @@ class Solution:
             if len(stack)==0:
                 return False
             else:
-                if (char==')' and stack.pop()!='(') or  (char=='}' and stack.pop()!='{') or  (char==']' and stack.pop()!='['):
+                if (char==')' and stack.pop()!='(') or (char==']' and stack.pop()!='[') or (char=='}' and stack.pop()!='{'):
                     return False
-        if len(stack)!=0:
-            return False
-        else:
+        if len(stack)==0:
             return True
+        else:
+            return False
