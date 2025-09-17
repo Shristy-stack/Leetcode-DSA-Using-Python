@@ -4,7 +4,10 @@ class Solution:
             return False
         hashmap={}
         for i in range(len(s)):
-            hashmap[s[i]]=hashmap.get(s[i],0)+1
+            if s[i] in hashmap:
+                hashmap[s[i]]+=1
+            else:
+                hashmap[s[i]]=1
         for j in range(len(t)):
             if t[j] not in hashmap or hashmap[t[j]]==0:
                 return False
