@@ -1,7 +1,7 @@
 class Solution:
     def firstUniqChar(self, s: str) -> int:
-        count=Counter(s)
-        for i in range(len(s)):
-            if count[s[i]]==1 :
+        hashmap=Counter(s)
+        for i, ch in enumerate(s):
+            if hashmap[ch]==1:
                 return i
         return -1
