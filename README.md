@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0792-binary-search) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0055-jump-game) |
+| [0605-can-place-flowers](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0605-can-place-flowers) |
 ## Counting Sort
 |  |
 | ------- |
