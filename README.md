@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0322-coin-change) |
+| [0334-increasing-triplet-subsequence](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0055-jump-game) |
+| [0334-increasing-triplet-subsequence](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0605-can-place-flowers) |
 ## Counting Sort
 |  |
