@@ -4,7 +4,7 @@ class Solution:
         res=0
         for i in range(len(nums)):
             diff=k-nums[i]
-            if diff in hashmap and hashmap[diff]>0:
+            if diff in hashmap:
                 res+=1
                 hashmap[diff]-=1
                 if hashmap[diff] == 0:
