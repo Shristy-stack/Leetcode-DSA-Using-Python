@@ -1,6 +1,8 @@
 class Solution:
     def missingNumber(self, nums: List[int]) -> int:
-        xor=len(nums)
-        for i in range(len(nums)):
-            xor=xor^i^nums[i]
-        return xor
+        sump=0
+        n=len(nums)
+        for i in range(0,n+1):
+            sump=sump+i
+        return sump-sum(nums)
+        
