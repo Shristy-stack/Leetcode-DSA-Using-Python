@@ -1,12 +1,12 @@
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
-        maj_ele=nums[0]
-        count=1
-        for i in range(1,len(nums)):
-            if count==0:
-                maj_ele=nums[i]
-            if maj_ele==nums[i]:
-                count+=1
-            else:
-                count-=1
-        return maj_ele
+        hashmap={}
+        for num in nums:
+            hashmap[num]=hashmap.get(num,0)+1
+        maxp=float('-inf')
+        res=0
+        for key,value in hashmap.items():
+            if value > maxp:
+                maxp=value
+                res=key
+        return res
