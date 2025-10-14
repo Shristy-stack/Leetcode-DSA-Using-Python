@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1833-find-the-highest-altitude](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1833-find-the-highest-altitude) |
 ## Hash Table
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0724-find-pivot-index) |
+| [1833-find-the-highest-altitude](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1833-find-the-highest-altitude) |
 ## Divide and Conquer
 |  |
 | ------- |
