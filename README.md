@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0392-is-subsequence) |
+| [1013-fibonacci-number](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1013-fibonacci-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0206-reverse-linked-list) |
+| [1013-fibonacci-number](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0628-maximum-product-of-three-numbers) |
+| [1013-fibonacci-number](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1013-fibonacci-number) |
 ## Queue
 |  |
 | ------- |
@@ -306,4 +309,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0274-h-index) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
