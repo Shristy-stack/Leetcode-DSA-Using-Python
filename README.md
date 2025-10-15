@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0424-longest-repeating-character-replacement) |
+| [0643-maximum-average-subarray-i](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0643-maximum-average-subarray-i) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Matrix
 |  |
