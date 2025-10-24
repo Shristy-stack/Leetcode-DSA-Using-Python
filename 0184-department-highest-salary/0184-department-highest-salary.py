@@ -1,8 +1,8 @@
 import pandas as pd
 
 def department_highest_salary(employee: pd.DataFrame, department: pd.DataFrame) -> pd.DataFrame:
-    df=pd.merge(employee,department, left_on='departmentId',right_on='id')
-    df=df.drop(["id_x","id_y","departmentId"],axis=1).rename(columns={"name_x":"Employee","name_y":"Department"})
-    df["max_salary_dept"]=df.groupby("Department")['salary'].transform("max")
-    df=df[df["salary"]==df["max_salary_dept"]]
-    return df[['Department','Employee','salary']]
+    df=pd.merge(employee,department,left_on='departmentId',right_on='id')
+    dff=df.drop(columns=['id_y']).rename(columns={'id_x':'emp_id','name_x':'Employee','salary':'Salary','name_y':'Department'})
+    dff['max_salary']=dff.groupby(['departmentId','Department'])['Salary'].transform('max')
+    res=dff.loc[dff['Salary']==dff['max_salary']].drop(columns=['max_salary'])
+    return res[['Department','Employee','Salary']]
