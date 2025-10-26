@@ -1,9 +1,9 @@
-WITH CUMM_SUM AS (
-    SELECT person_name,
-SUM(Weight) OVER (ORDER BY TURN) AS  Total_Weight_So_Far
-FROM Queue
-ORDER BY Total_Weight_So_Far DESC
+WITH CUMM_SUMS AS 
+(
+    SELECT turn,person_name, 
+    SUM(Weight) OVER (ORDER BY turn) as cumm_sum
+    from Queue
 )
-SELECT person_name FROM CUMM_SUM
-WHERE Total_Weight_So_Far <= 1000
-LIMIT 1
+SELECT person_name FROM CUMM_SUMS
+WHERE cumm_sum <= 1000
+ORDER BY cumm_sum DESC LIMIT 1
