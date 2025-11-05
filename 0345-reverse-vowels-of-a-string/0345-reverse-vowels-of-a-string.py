@@ -2,7 +2,7 @@ class Solution:
     def reverseVowels(self, s: str) -> str:
         p=list(s)
         vowels=['a','e','i','o','u','A','E','I','O','U']
-        i,j=0, len(p)-1
+        i,j=0,len(p)-1
         while i<j:
             if p[i] in vowels and p[j] in vowels:
                 p[i],p[j]=p[j],p[i]
@@ -12,8 +12,7 @@ class Solution:
                 j-=1
             elif p[i] not in vowels and p[j] in vowels:
                 i+=1
-            elif p[i] not in vowels and p[j] not in vowels:
+            else:
                 i+=1
                 j-=1
-        return ''.join(p)
-
+        return ''.join(p)        
