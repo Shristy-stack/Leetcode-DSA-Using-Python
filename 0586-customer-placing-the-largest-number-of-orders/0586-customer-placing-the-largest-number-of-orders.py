@@ -1,7 +1,6 @@
 import pandas as pd
 
 def largest_orders(orders: pd.DataFrame) -> pd.DataFrame:
-    orders['count']=orders.groupby('customer_number')['order_number'].transform('count')
-    maxp=orders['count'].max()
-    res=orders.loc[orders['count']==maxp]
-    return res[['customer_number']].drop_duplicates()
+    orders['cnts']=orders.groupby('customer_number')['order_number'].transform('count')
+    orders=orders.loc[orders['cnts']==orders['cnts'].max()]
+    return orders[['customer_number']].drop_duplicates()
