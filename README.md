@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1948-rearrange-products-table](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1948-rearrange-products-table) |
 | [2024-calculate-special-bonus](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/2024-calculate-special-bonus) |
 | [2087-confirmation-rate](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/2087-confirmation-rate) |
+| [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Two Pointers
 |  |
 | ------- |
