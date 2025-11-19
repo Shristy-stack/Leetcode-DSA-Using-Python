@@ -1,15 +1,18 @@
 class Solution:
     def maxOperations(self, nums: List[int], k: int) -> int:
-        hashmap={}
+        nums.sort()
+        i,j=0,len(nums)-1
         res=0
-        for i in range(len(nums)):
-            diff=k-nums[i]
-            if diff in hashmap:
+        while i<j:
+            sump=nums[i]+nums[j]
+            if sump==k:
                 res+=1
-                hashmap[diff]-=1
-                if hashmap[diff] == 0:
-                    del hashmap[diff]
+                i+=1
+                j-=1
+            elif sump<k:
+                i+=1
             else:
-                hashmap[nums[i]]=hashmap.get(nums[i],0)+1
-        print(hashmap)
+                j-=1
+
         return res
+            
