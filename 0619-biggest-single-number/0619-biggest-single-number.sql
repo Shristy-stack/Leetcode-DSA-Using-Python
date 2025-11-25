@@ -1,6 +1,6 @@
-# Write your MySQL query statement below
-SELECT COALESCE((SELECT num FROM MyNumbers
+SELECT max(num) AS num FROM 
+(SELECT num 
+FROM MyNumbers
 GROUP BY num
-HAVING COUNT(num)=1
-ORDER BY num DESC LIMIT 1), NULL) AS num
-FROM MyNumbers LIMIT 1
+HAVING COUNT(*) = 1
+) AS t;
