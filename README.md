@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1211-queries-quality-and-percentage](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1211-queries-quality-and-percentage) |
 | [1258-article-views-i](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1258-article-views-i) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1327-last-person-to-fit-in-the-bus) |
+| [1341-movie-rating](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1341-movie-rating) |
 | [1452-restaurant-growth](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1452-restaurant-growth) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1480-movie-rating](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1480-movie-rating) |
