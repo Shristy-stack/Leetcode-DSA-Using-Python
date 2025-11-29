@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1978-employees-whose-manager-left-the-company](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2024-calculate-special-bonus](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/2024-calculate-special-bonus) |
 | [2087-confirmation-rate](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/2087-confirmation-rate) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Two Pointers
 |  |
