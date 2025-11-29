@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-invalid-tweets](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1827-invalid-tweets) |
 | [1837-daily-leads-and-partners](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1837-daily-leads-and-partners) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1892-find-total-time-spent-by-each-employee) |
+| [1907-count-salary-categories](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1907-count-salary-categories) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1908-recyclable-and-low-fat-products) |
 | [1948-rearrange-products-table](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1948-rearrange-products-table) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1978-employees-whose-manager-left-the-company) |
