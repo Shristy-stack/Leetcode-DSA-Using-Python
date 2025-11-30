@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1207-unique-number-of-occurrences](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1207-unique-number-of-occurrences) |
 | [1319-unique-number-of-occurrences](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0560-subarray-sum-equals-k) |
+| [1207-unique-number-of-occurrences](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1207-unique-number-of-occurrences) |
 | [1319-unique-number-of-occurrences](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1798-max-number-of-k-sum-pairs) |
