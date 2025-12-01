@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0180-consecutive-numbers](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0180-consecutive-numbers) |
 | [0183-customers-who-never-order](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0184-department-highest-salary) |
+| [0185-department-top-three-salaries](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0197-rising-temperature) |
 | [0262-trips-and-users](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0262-trips-and-users) |
