@@ -6,4 +6,3 @@ class Solution:
             if diff in hashmap:
                 return [i,hashmap[diff]]
             hashmap[nums[i]]=i
-        print(hashmap)
