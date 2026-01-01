@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1153-product-sales-analysis-i](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1153-product-sales-analysis-i) |
 | [1161-project-employees-i](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1161-project-employees-i) |
 | [1179-game-play-analysis-i](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1179-game-play-analysis-i) |
+| [1204-last-person-to-fit-in-the-bus](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1211-queries-quality-and-percentage](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1211-queries-quality-and-percentage) |
 | [1258-article-views-i](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1258-article-views-i) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1327-last-person-to-fit-in-the-bus) |
