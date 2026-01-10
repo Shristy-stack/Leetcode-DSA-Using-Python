@@ -7,11 +7,11 @@ class Solution:
             else:
                 hashmap[num]=1
         max_i=float('-inf')
+        c=0
         for key, value in hashmap.items():
             if max_i<value:
                 max_i=value
-        c=0
-        for key, value in hashmap.items():
-            if value==max_i:
+                c=value
+            elif max_i==value:
                 c+=value
         return c
