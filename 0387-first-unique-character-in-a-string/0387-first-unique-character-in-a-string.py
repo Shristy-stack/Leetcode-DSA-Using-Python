@@ -6,13 +6,7 @@ class Solution:
                 hashmap[s[i]]+=1
             else:
                 hashmap[s[i]]=1
-        c=0
-        for key, value in hashmap.items():
-            if value==1:
-                c=key
-                break
         for i in range(len(s)):
-            if s[i]==c:
+            if hashmap[s[i]]==1:
                 return i
         return -1
-            
