@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0349-intersection-of-two-arrays) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0628-maximum-product-of-three-numbers) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1798-max-number-of-k-sum-pairs) |
