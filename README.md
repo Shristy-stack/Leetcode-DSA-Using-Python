@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1833-find-the-highest-altitude) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1904-second-largest-digit-in-a-string) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Sorting
 |  |
 | ------- |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0387-first-unique-character-in-a-string) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
