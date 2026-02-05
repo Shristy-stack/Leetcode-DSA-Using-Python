@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0896-monotonic-array](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0896-monotonic-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1207-unique-number-of-occurrences) |
 | [1319-unique-number-of-occurrences](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1392-find-the-difference-of-two-arrays) |
