@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1045-customers-who-bought-all-products](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1045-customers-who-bought-all-products) |
 | [1135-customers-who-bought-all-products](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1135-customers-who-bought-all-products) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1141-user-activity-for-the-past-30-days-i) |
+| [1148-article-views-i](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1148-article-views-i) |
 | [1153-product-sales-analysis-i](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1153-product-sales-analysis-i) |
 | [1161-project-employees-i](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1161-project-employees-i) |
 | [1179-game-play-analysis-i](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1179-game-play-analysis-i) |
