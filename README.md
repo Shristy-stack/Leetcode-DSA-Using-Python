@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1833-find-the-highest-altitude) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1207-unique-number-of-occurrences) |
 | [1319-unique-number-of-occurrences](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1904-second-largest-digit-in-a-string) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0628-maximum-product-of-three-numbers) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Dynamic Programming
 |  |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0443-string-compression) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1894-merge-strings-alternately) |
 ## String
