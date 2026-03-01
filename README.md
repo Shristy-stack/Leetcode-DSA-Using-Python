@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-invalid-tweets](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1683-invalid-tweets) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1757-recyclable-and-low-fat-products) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1789-primary-department-for-each-employee](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1789-primary-department-for-each-employee) |
