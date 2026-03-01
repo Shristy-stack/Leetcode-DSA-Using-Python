@@ -1,9 +1,12 @@
 import pandas as pd
-
+import numpy as np
 def second_highest_salary(employee: pd.DataFrame) -> pd.DataFrame:
-    unique_sorted_values=employee['salary'].dropna().drop_duplicates().sort_values(ascending= False)
-    if len(unique_sorted_values)<2:
+    employee['rank']=employee['salary'].rank(method='dense',ascending=False)
+    p=employee.loc[employee['rank']==2,'salary'].drop_duplicates()
+    if len(p)==0:
         return pd.DataFrame({'SecondHighestSalary':[None]})
     else:
-        return pd.DataFrame({'SecondHighestSalary':[unique_sorted_values.iloc[1]]})
+        return pd.DataFrame({'SecondHighestSalary':[p.iloc[0]]})
+
     
+
