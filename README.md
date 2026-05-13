@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0896-monotonic-array](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0896-monotonic-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1207-unique-number-of-occurrences](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1207-unique-number-of-occurrences) |
 | [1319-unique-number-of-occurrences](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Database
 |  |
 | ------- |
