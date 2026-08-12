@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0322-coin-change](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0392-is-subsequence) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0055-jump-game) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python/tree/master/0605-can-place-flowers) |
 ## Counting Sort
