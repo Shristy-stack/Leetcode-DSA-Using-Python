@@ -8,8 +8,6 @@ class Solution:
                 diff=prices[i]-min_price
                 sump+=diff
                 max_prof=max(max_prof,sump)
-                min_price=prices[i]
-            else:
-                min_price=prices[i]
+            min_price=prices[i]
 
         return max_prof
