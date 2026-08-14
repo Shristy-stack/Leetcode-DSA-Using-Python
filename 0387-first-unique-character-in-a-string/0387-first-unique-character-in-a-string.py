@@ -1,10 +1,16 @@
+
 class Solution:
     def firstUniqChar(self, s: str) -> int:
-        res=[0]*26
+        hashmap={}
         for i in range(len(s)):
-            res[ord(s[i])-ord('a')]+=1
-        for i in range(len(s)):
-            if res[ord(s[i])-ord('a')]==1:
-                return i
-        print(res)
+            if s[i] in hashmap:
+                hashmap[s[i]]+=1
+            else:
+                hashmap[s[i]]=1
+        for key,value in hashmap.items():
+            if value==1:
+                for i in range(len(s)):
+                    if s[i] == key:
+                        return i
+
         return -1
